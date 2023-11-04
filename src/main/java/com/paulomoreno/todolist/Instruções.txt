@@ -1,0 +1,1 @@
+Package service é o Cor da nossa aplicação e vai ter todas as regras de negócio.
