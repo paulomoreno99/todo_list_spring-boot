@@ -2,4 +2,7 @@
 - Criação da entidade/dominio da aplicação com os atributos no arquivo Todo.Java em Entity.
 - Criação do arquivo TodoRepository que faz a conexão com o banco de dados atraves de uma interface
 com a classe JpaRepository com o arquivo Todo e o tipo da ID.
-- 
+- Criação do arquivo todoService(Dominio) com as regras de negócio e com todos os metodos CRUD e 
+também a opção de listar com ordenação usando o Objeto Sort.
+- Criação do arquivo TodoController que é a camada web para interação com os clientes.
+
